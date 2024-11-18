@@ -1,0 +1,5 @@
+{
+    "name": "@deno-library/isuuid",
+    "version": "0.1.0",
+    "exports": "./mod.ts"
+}

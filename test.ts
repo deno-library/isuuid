@@ -1,7 +1,7 @@
 import {
   assert,
   assertEquals,
-} from "https://deno.land/std/testing/asserts.ts";
+} from "jsr:@std/assert";;
 const { test } = Deno;
 import isuuid from "./mod.ts";
 

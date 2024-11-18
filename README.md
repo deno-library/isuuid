@@ -4,7 +4,9 @@ uuid check for Deno
 ## Useage  
 
 ```ts
-import isuuid from "https://deno.land/x/isuuid@v1.0.0/mod.ts";
+import isuuid from "jsr:@deno-library/isuuid";
+// or
+// import isuuid from "https://deno.land/x/isuuid@v1.0.0/mod.ts";
 
 const str = '5d86c74a-c111-11ea-a575-02fcdc4e7412'; // v1
 
